@@ -1,7 +1,10 @@
 [package]
 name = "mxtool"
 version = "0.0.1"
+authors = ["小萌新 <3209970865@qq.com>"]
 edition = "2021"
+description = "A Rust lib"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
